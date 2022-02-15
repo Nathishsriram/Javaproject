@@ -7,7 +7,10 @@ System.out.println("omr");
 }	
 private void greenstambaram() {
 System.out.println("tambaram");
-}	
+}
+private void greenstambara() {
+System.out.println("tambaram");
+}
 public static void main(String[] args) {
 	InsituateDetail info=new InsituateDetail();
 	info.greensomr();
